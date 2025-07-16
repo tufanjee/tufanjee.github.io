@@ -23,6 +23,21 @@
         color: #888;
         margin-bottom: 20px;
       }
+      h2 {
+        color: #333;
+        margin-top: 30px;
+        margin-bottom: 15px;
+      }
+      img {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+      }
+      a {
+        color: #0066cc;
+      }
+      a:hover {
+        text-decoration: none;
+      }
       p {
         margin-bottom: 15px;
         text-align: justify;
@@ -46,14 +61,26 @@
     
     <p>Pakistan recorded the second-highest death toll after Bangladesh, followed by India and Nepal.</p>
     
+    <h2>Data Visualizations</h2> 
+    <img src="bar_chart_journalist_incidents.png" alt="Bar Chart of Journalist Incidents" style="max-width: 100%; height: auto; margin: 20px 0; display: block;">
+    
     <p>Around one-fourth of deaths are from "violence against civilians." ACLED defines this as violence by armed groups against unarmed non-combatants. Among countries with reported deaths, only Bangladesh, India and Pakistan recorded fatalities under this category. The data shows political militias are responsible for nearly 90% of these deaths across the three countries.</p>
     
     <p>ACLED has recorded 6,000 incidents of political violence and demonstrations in South Asia during this period. Pakistan has the highest number of political violence incidents, accounting for more than two-thirds of the total.</p>
     
     <p>However, Bangladesh has the highest fatality rate in political violence. The data shows that, on average, one person died in every five reported incidents in Bangladesh. Pakistan maintained the lowest fatality rate among countries with reported deaths, with nine fatalities per 1,000 incidents.</p>
+
+    <h2>Data Visualizations</h2> 
+    <img src="scatter_fatality_rate_vs_incidents.png" alt="Scatter Plot: Fatality Rate vs Incidents" style="max-width: 100%; height: auto; margin: 20px 0; display: block;">
     
     <p>The dataset includes all civilians who engage professionally in news media creation. ACLED updates the data weekly, typically on Mondays or Tuesdays. This analysis was downloaded on July 8, 2025, and covers events through July 4, 2025.</p>
     
     <p>The timeframe begins in January 2020 to ensure consistent data across all countries, as ACLED began collecting data for the Maldives only from early 2020.</p>
+  
+  <h2>Interactive Map</h2>
+    <iframe title="Political Violence and Demonstrations Involving Journalists in South Asia (2020-2025)" aria-label="map" id="datawrapper-chart-6QYCR" src="https://datawrapper.dwcdn.net/6QYCR/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none; margin: 20px 0;" height="851" data-external="1"></iframe>
+    <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}})}();
+    </script>
+      
   </body>
 </html>
