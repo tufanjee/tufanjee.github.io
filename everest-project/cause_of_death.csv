@@ -1,0 +1,22 @@
+group,cause,count
+Climber,Fall,59
+Climber,Acute Mountain Sickness,44
+Climber,Avalanche,33
+Climber,Exhaustion,28
+Climber,Exposure/Frostbite,27
+Climber,Illness(non-AMS),22
+Climber,Disappearance,12
+Climber,Crevasse,4
+Climber,Other/Unknown,4
+Climber,Icefall collapse,3
+Climber,Falling rock/ice,1
+Sherpa,Avalanche,52
+Sherpa,Fall,17
+Sherpa,Icefall collapse,16
+Sherpa,Illness(non-AMS),8
+Sherpa,Acute Mountain Sickness,6
+Sherpa,Crevasse,6
+Sherpa,Falling rock/ice,4
+Sherpa,Other/Unknown,3
+Sherpa,Disappearance,2
+Sherpa,Exhaustion,2

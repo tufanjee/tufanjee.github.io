@@ -1,0 +1,34 @@
+group,classification,altitude_group,death_count
+Climber,Ascent phase,Camp IV-Summit Area,27
+Climber,Descent phase,Camp IV-Summit Area,88
+Climber,During route preparation,Camp IV-Summit Area,4
+Climber,Route evacuation,Camp IV-Summit Area,1
+Sherpa,Ascent phase,Camp IV-Summit Area,5
+Sherpa,Descent phase,Camp IV-Summit Area,13
+Climber,Ascent phase,Camp III Area,3
+Climber,Descent phase,Camp III Area,18
+Climber,During route preparation,Camp III Area,17
+Climber,Route evacuation,Camp III Area,1
+Sherpa,Descent phase,Camp III Area,2
+Sherpa,During route preparation,Camp III Area,7
+Climber,At base camp,Camp II Area,1
+Climber,Descent phase,Camp II Area,2
+Climber,During route preparation,Camp II Area,19
+Sherpa,During route preparation,Camp II Area,24
+Climber,Ascent phase,Camp I Area,1
+Climber,Descent phase,Camp I Area,1
+Climber,During route preparation,Camp I Area,6
+Sherpa,Descent phase,Camp I Area,1
+Sherpa,During route preparation,Camp I Area,12
+Climber,At base camp,Base Camp Area,4
+Climber,During route preparation,Base Camp Area,8
+Climber,En route to/from base camp,Base Camp Area,2
+Climber,Route evacuation,Base Camp Area,8
+Sherpa,During route preparation,Base Camp Area,37
+Sherpa,Route evacuation,Base Camp Area,1
+Climber,At base camp,Below Base Camp,21
+Climber,En route to/from base camp,Below Base Camp,4
+Climber,Other,Below Base Camp,1
+Sherpa,At base camp,Below Base Camp,11
+Sherpa,En route to/from base camp,Below Base Camp,2
+Sherpa,Route evacuation,Below Base Camp,1

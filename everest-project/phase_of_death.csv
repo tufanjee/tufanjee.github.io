@@ -1,0 +1,14 @@
+group,classification,count
+Climber,Descent phase,109
+Climber,During route preparation,54
+Climber,Ascent phase,31
+Climber,At base camp,26
+Climber,Route evacuation,10
+Climber,En route to/from base camp,6
+Climber,Other,1
+Sherpa,During route preparation,80
+Sherpa,Descent phase,16
+Sherpa,At base camp,11
+Sherpa,Ascent phase,5
+Sherpa,En route to/from base camp,2
+Sherpa,Route evacuation,2
